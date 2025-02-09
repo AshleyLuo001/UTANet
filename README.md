@@ -10,7 +10,7 @@
 </div>
 
 #### Official Pytorch Implementation
-![structure](./assets/structure.pdf)
+![structure](./assets/architecture.png)
 
 ## 📌 Introduction
 UTANet is a U-Net-based architecture enhanced with the **Task-Adaptive Mixture of Skip Connections (TA-MoSC)** module. By integrating the Mixture of Experts (MoE) framework into skip connections, our method dynamically aligns encoder-decoder features, addressing dataset-specific segmentation challenges. Key contributions include:
