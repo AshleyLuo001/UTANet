@@ -43,3 +43,25 @@ waiting...
 ## 📊Results
 #### Performance on Medical Image Segmentation Datasets
 waiting...
+
+
+
+
+
+
+
+
+
+## 📜Citation
+#### If you use UTANet in your research, please cite:
+```bibtex
+@article{luo2025rethinking,  
+  title={Rethinking U-Net: Task-Adaptive Mixture of Skip Connections for Enhanced Medical Image Segmentation},  
+  author={Luo, Zichen and Zhu, Xinshan and Zhang, Lan and Sun, Biao},  
+  journal={AAAI},  
+  year={2025}  
+}
+```
+
+
+### ✨ Star this repo if you find it helpful!
