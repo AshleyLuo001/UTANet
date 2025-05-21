@@ -19,12 +19,13 @@ UTANet is a U-Net-based architecture enhanced with the **Task-Adaptive Mixture o
 
 The following features and improvements are planned or in progress:
 
-- [x] Add Model scripts 
+- [x] [2025.05.22] Add Model scripts. 
 - [ ] Training framework
-- [x] Implement TA-MoSC module
+- [x] [2025.05.22] Implement TA-MoSC module
 - [ ] Upload weight
 - [ ] Add Jupyter notebook examples
 - [ ] Add data preprocessing scripts
+- [x] [2025.01.09] Add README.md.
 
 ## ✨Highlights
 - **Dynamic Skip Connections**: Replaces fixed skip connections with task-adaptive expert mixtures.
