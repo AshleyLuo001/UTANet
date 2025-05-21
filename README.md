@@ -15,6 +15,16 @@ UTANet is a U-Net-based architecture enhanced with the **Task-Adaptive Mixture o
 - **TA-MoSC**: Adaptive routing mechanism for multi-scale feature fusion.
 - **Balanced Expert Utilization (BEU)**: Ensures balanced training of lightweight convolutional experts.
 - **State-of-the-art Performance**: Outperforms existing methods on GlaS, MoNuSeg, Synapse, and ISIC16 datasets.
+## 🛠️ TODO / Work in Progress
+
+The following features and improvements are planned or in progress:
+
+- [x] Add Model scripts 
+- [ ] Training framework
+- [x] Implement TA-MoSC module
+- [ ] Upload weight
+- [ ] Add Jupyter notebook examples
+- [ ] Add data preprocessing scripts
 
 ## ✨Highlights
 - **Dynamic Skip Connections**: Replaces fixed skip connections with task-adaptive expert mixtures.
