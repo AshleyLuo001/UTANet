@@ -15,7 +15,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torchvision.models as models
 from typing import Optional, Tuple
-from moe import MoE  # Assuming MoE module is in moe.py
+from ta_mosc import MoE  # Assuming MoE module is in moe.py
 
 
 class Flatten(nn.Module):
