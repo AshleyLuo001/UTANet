@@ -158,7 +158,9 @@ class UTANet(nn.Module):
     ):
         """
         Args:
-            pretrained: Use pretrained ResNet weights
+            pretrained: 
+                    False (stage 1) : Training origin Unet model(Encoder and Decoder)
+                    True  (stage 2) : Targeted training TA-MoSC module
             topk: Number of experts to select in MoE module
             n_channels: Number of input channels (default: 3 for RGB)
             n_classes: Number of output classes (default: 1 for binary segmentation)
@@ -170,7 +172,7 @@ class UTANet(nn.Module):
         self.img_size = img_size
 
         # Encoder based on ResNet34
-        self.resnet = models.resnet34(pretrained=pretrained)
+        self.resnet = models.resnet34(pretrained=True)
         self.filters_resnet = [64, 64, 128, 256, 512]
         self.filters_decoder = [32, 64, 128, 256, 512]
 
