@@ -1,16 +1,34 @@
 
-# UTANet: Task-Adaptive Mixture of Skip Connections for Enhanced Medical Image Segmentation
-<div align="left" style="line-height: 1;">
+<div align=center>
+<h1> UTANet: Task-Adaptive Mixture of Skip Connections for Enhanced Medical Image Segmentation</h1>
+<h4 align="center">
+  
+[Zichen Luo](https://github.com/AshleyLuo001)<sup>1</sup>,
+Xinshan Zhu<sup>1</sup>,
+Lan Zhang<sup>1</sup>,
+Biao Sun<sup>1</sup>
+
+
+<sup>1</sup>Tianjin University
+
+</h4>
   <a href="" style="margin: 2px;">
     <img alt="Code License" src="https://img.shields.io/badge/Code_License-MIT-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
   </a>
-</div>
-<p align="center">
-Made with ❤️ by [<b>Luo Zichen</b>](https://github.com/AshleyLuo001) | PhD @ Tianjin University  
-  <br>
-✉️ luozichen_01@tju.edu.cn · 🧠 Medical AI · 🧬 Quantum Learning · 🧩 GUI Agent& Computer Use
-</p>
 
+</div>
+<div align=center>
+Made with ❤️ by [<b>Luo Zichen</b>](https://github.com/AshleyLuo001) | PhD @ Tianjin University 
+  <br>
+  🧠 Medical AI · 🧬 Quantum Learning · 🧩 GUI Agent& Computer Use
+   <br>
+</div>
+
+## 🔥 News
+
+* **`2025.05.22`** We update the TA-MoSC code in the utanet document, a plug-and-play module for U-shaed Architecture!
+
+## ✨ Overview
 ![structure](./assets/architecture.png)
 
 ## 📌 Introduction
