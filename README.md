@@ -5,6 +5,11 @@
     <img alt="Code License" src="https://img.shields.io/badge/Code_License-MIT-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
+<p align="center">
+Made with ❤️ by [<b>Luo Zichen</b>](https://github.com/AshleyLuo001) | PhD incoming @ Tianjin University  
+  <br>
+✉️ luozichen_01@tju.edu.cn · 🧠 Medical AI · 🧬 Quantum Learning · 🧩 GUI Agent& Computer Use
+</p>
 
 #### Official Pytorch Implementation
 ![structure](./assets/architecture.png)
