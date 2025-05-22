@@ -6,7 +6,7 @@
   </a>
 </div>
 <p align="center">
-Made with ❤️ by [<b>Luo Zichen</b>](https://github.com/AshleyLuo001) | PhD incoming @ Tianjin University  
+Made with ❤️ by [<b>Luo Zichen</b>](https://github.com/AshleyLuo001) | PhD @ Tianjin University  
   <br>
 ✉️ luozichen_01@tju.edu.cn · 🧠 Medical AI · 🧬 Quantum Learning · 🧩 GUI Agent& Computer Use
 </p>
