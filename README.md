@@ -11,7 +11,6 @@ Made with ❤️ by [<b>Luo Zichen</b>](https://github.com/AshleyLuo001) | PhD @
 ✉️ luozichen_01@tju.edu.cn · 🧠 Medical AI · 🧬 Quantum Learning · 🧩 GUI Agent& Computer Use
 </p>
 
-#### Official Pytorch Implementation
 ![structure](./assets/architecture.png)
 
 ## 📌 Introduction
