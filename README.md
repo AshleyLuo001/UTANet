@@ -18,7 +18,7 @@ Biao Sun<sup>1</sup>
 
 </div>
 <div align=center>
-Made with ❤️ by [<b>Luo Zichen</b>](https://github.com/AshleyLuo001) | PhD @ Tianjin University 
+Made with ❤️ by Ashley | PhD @ Tianjin University 
   <br>
   🧠 Medical AI · 🧬 Quantum Learning · 🧩 GUI Agent& Computer Use
    <br>
