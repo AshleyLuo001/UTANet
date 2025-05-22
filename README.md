@@ -15,7 +15,8 @@ UTANet is a U-Net-based architecture enhanced with the **Task-Adaptive Mixture o
 - **TA-MoSC**: Adaptive routing mechanism for multi-scale feature fusion.
 - **Balanced Expert Utilization (BEU)**: Ensures balanced training of lightweight convolutional experts.
 - **State-of-the-art Performance**: Outperforms existing methods on GlaS, MoNuSeg, Synapse, and ISIC16 datasets.
-## 🛠️ TODO / Work in Progress
+
+## 📌 TODO / Work in Progress
 
 The following features and improvements are planned or in progress:
 
@@ -32,6 +33,16 @@ The following features and improvements are planned or in progress:
 - **Lightweight Design**: Minimal parameter overhead compared to vanilla U-Net.
 - **Multi-Dataset Generalization**: Robust performance across diverse medical imaging tasks.
 - **Code Efficiency**: Compatible with PyTorch and easy to integrate into existing U-Net variants.
+  
+
+## 🧠 TA-MoSC: Why It Works
+
+> TA-MoSC learns to select relevant skip features dynamically across different tasks, allowing better specialization in edge cases such as:
+>
+> - 🔬 Tiny tumor detection  
+> - 🧩 Irregular lesion boundaries  
+> - 🧠 Low-contrast or noisy regions
+>
 
 ## 🚀Quick Start
 #### Installation
@@ -54,6 +65,19 @@ waiting...
 
 
 
+
+
+
+
+## 🛠️ Contributing
+
+We welcome contributions! Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for instructions.
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
